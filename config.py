@@ -1,1 +1,3 @@
-dateVal ="2022-5-8"
+year ="2022"
+month ="5"
+day ="8"
